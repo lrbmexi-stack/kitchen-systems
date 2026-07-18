@@ -2,7 +2,9 @@
 
 **DRAFT. Illustrative documentation example.**
 
-Three proteins, three treatments, one cold plate. Halibut soy marinated and citrus cured, prawns boiled in Old Bay and lemon, bay scallops acid cured with Aleppo. The mix rides a tomato base that pulls the dish toward a Veracruz build rather than a straight Peruvian. Served over three fried corn tortillas with beet aioli and lemon dressed slaw.
+Three proteins, three treatments, one cold plate. Halibut tamari marinated and citrus cured, prawns boiled in Old Bay and lemon, bay scallops acid cured with Aleppo. The mix rides a tomato base that pulls the dish toward a Veracruz build rather than a straight Peruvian. Served over three fried corn tortillas with beet aioli and lemon dressed slaw.
+
+Tamari note: the marinade runs tamari, not soy sauce. Same fermented soy depth, no wheat, and with corn tortillas underneath that makes the whole plate gluten free as built. Sub standard soy sauce back in and the dish stops being GF; if you do that, update the server reference the same day.
 
 Halibut note: halibut is leaner and more delicate than the firm tropical fish this build was first developed around. It takes acid faster, and it goes chalky if you overshoot the cure. Cure times below are written for halibut. Respect them.
 
@@ -19,7 +21,7 @@ Halibut note: halibut is leaner and more delicate than the firm tropical fish th
 | Ingredient | Quantity |
 |---|---|
 | Halibut fillet, skinless, boneless | 700 g |
-| Soy sauce | 90 ml |
+| Tamari | 90 ml |
 | Orange juice, fresh | 480 ml |
 | Lemon juice, fresh | 240 ml |
 
@@ -66,7 +68,7 @@ Halibut note: halibut is leaner and more delicate than the firm tropical fish th
 
 ### Halibut
 1. Cut halibut into 12 mm dice. Keep the knife sharp and the fish cold. Halibut flakes apart under a dull blade.
-2. Toss with soy sauce. Marinate 10 minutes, no longer. Lean flesh takes salt fast.
+2. Toss with tamari. Marinate 10 minutes, no longer. Lean flesh takes salt fast.
 3. Drain. Transfer to the orange and lemon juice bath. Cure 25 to 35 minutes, checking at 25. Pull when opaque through and just firm. Past 45 minutes halibut turns chalky. Drain and hold cold, separate.
 
 ### Prawns

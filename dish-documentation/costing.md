@@ -18,7 +18,7 @@ Columns: AP cost is the as purchased price. Yield % is the usable fraction after
 
 | Ingredient | Prep | EP Qty | Unit | AP Cost | Yield % | EP Cost | Extension |
 |---|---|---:|---|---:|---:|---:|---:|
-| Halibut fillet | 12 mm dice, soy then citrus cure | 45 | g | $28.00/kg | 80% | $35.00/kg | $1.58 |
+| Halibut fillet | 12 mm dice, tamari then citrus cure | 45 | g | $28.00/kg | 80% | $35.00/kg | $1.58 |
 | Prawns 16/20 | Old Bay lemon boil, chopped, chilled | 70 | g | $18.00/kg | 90% | $20.00/kg | $1.40 |
 | Bay scallops 60/80 | lime lemon Aleppo cure, chopped | 45 | g | $22.00/kg | 100% | $22.00/kg | $0.99 |
 | Roma tomato | small dice | 6 | g | $4.00/kg | 90% | $4.44/kg | $0.03 |
@@ -73,3 +73,4 @@ The same structure repeats at batch scale: batch yield (~4.5 L, 40 portions at 1
 - Sub recipes (pickled jalapeño, cocktail sauce, pickled red onion, beet aioli) carry their own costing sheets. This sheet pulls their finished EP cost per unit, never their raw ingredients.
 - Zero cost lines (brine byproducts) stay on the sheet at $0.00. The structure documents the decision.
 - Re-cost on every invoice price change for the top three cost lines, quarterly for the rest.
+- Market reality: AP costs move constantly, and premium fish moves hardest. A live sheet is never finished; the candidate price table exists because the pricing conversation never ends. The figures here are frozen round examples, which is the only reason they can sit still.
