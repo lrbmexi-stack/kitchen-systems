@@ -1,6 +1,6 @@
 # Server Reference: Halibut Ceviche Tostada
 
-**DRAFT. Illustrative documentation example.**
+**Illustrative documentation example.**
 
 ## The Story
 

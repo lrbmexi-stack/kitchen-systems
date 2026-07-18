@@ -1,6 +1,6 @@
 # Recipe Template
 
-**DRAFT. Blank template. Copy this file per dish and fill every field. A blank field is a decision nobody made.**
+**Blank template. Copy this file per dish and fill every field. A blank field is a decision nobody made.**
 
 ## Header
 

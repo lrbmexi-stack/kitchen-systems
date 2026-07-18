@@ -1,6 +1,6 @@
 # Costing Sheet: Halibut Ceviche Tostada
 
-**DRAFT. ALL FIGURES ON THIS SHEET ARE ILLUSTRATIVE. They are invented round numbers chosen to demonstrate the structure of a professional costing sheet. They are not the costs, margins, or prices of any restaurant, past or present. Do not use them for purchasing or pricing decisions.**
+**ALL FIGURES ON THIS SHEET ARE ILLUSTRATIVE. They are invented round numbers chosen to demonstrate the structure of a professional costing sheet. They are not the costs, margins, or prices of any restaurant, past or present. Do not use them for purchasing or pricing decisions.**
 
 ## Header
 

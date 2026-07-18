@@ -1,6 +1,6 @@
 # Kitchen Costing Framework
 
-**DRAFT. All numeric examples in this document are illustrative.**
+**All numeric examples in this document are illustrative.**
 
 None of this is proprietary and none of it is new. This is standard food and beverage cost control practice, refined across a century of hotel and restaurant accounting, taught in every serious hospitality program, and codified in the classic cost control texts. What follows is the working version: the parts a chef actually uses week to week, written the way they get used.
 

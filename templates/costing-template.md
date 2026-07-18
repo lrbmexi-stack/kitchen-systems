@@ -1,6 +1,6 @@
 # Costing Sheet Template
 
-**DRAFT. Blank template. All fields empty by design. Any numbers entered here are your numbers; keep them off public copies.**
+**Blank template. All fields empty by design. Any numbers entered here are your numbers; keep them off public copies.**
 
 One sheet per menu item. One sheet per sub recipe. Parent sheets pull sub recipe EP cost per unit, never sub recipe ingredients.
 

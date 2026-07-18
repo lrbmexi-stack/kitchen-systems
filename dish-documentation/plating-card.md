@@ -1,6 +1,6 @@
 # Plating Card: Halibut Ceviche Tostada
 
-**DRAFT. Illustrative documentation example.**
+**Illustrative documentation example.**
 
 ## Plate
 

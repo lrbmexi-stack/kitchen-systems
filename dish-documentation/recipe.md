@@ -1,6 +1,6 @@
 # Halibut Ceviche Tostada
 
-**DRAFT. Illustrative documentation example.**
+**Illustrative documentation example.**
 
 Three proteins, three treatments, one cold plate. Halibut tamari marinated and citrus cured, prawns boiled in Old Bay and lemon, bay scallops acid cured with Aleppo. The mix rides a tomato base that pulls the dish toward a Veracruz build rather than a straight Peruvian. Served over three fried corn tortillas with beet aioli and lemon dressed slaw.
 

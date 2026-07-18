@@ -1,6 +1,6 @@
 # A Working R&D Cycle
 
-**DRAFT. Generalized methodology. No live menu development appears in this document.**
+**Generalized methodology. No live menu development appears in this document.**
 
 Dish development in a working restaurant is not inspiration management. It is a process with steps, timeboxes, and a kill switch. The version below is the cycle I run. It borrows from the kitchens that formalized culinary R&D and compresses their practice to fit a restaurant that has to run service every night while it develops.
 
